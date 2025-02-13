@@ -1,0 +1,2 @@
+https://github.com/sullo/nikto
+https://www.cirt.net/Nikto2
