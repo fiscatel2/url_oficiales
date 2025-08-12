@@ -2084,3 +2084,9 @@ http://185.215.113.16/test/amnew.exe
 http://185.215.113.43/Zu7JuNko/index.php
 http://pivqmane.com/doc/fb.mp4
 http://pivqmane.com/testonload.mp4
+http://104.234.15.90:59999/api/checkins 
+http://104.234.15.90:59999/api/checkins 
+http://hhthedalailama90.niccenter.net/DalaiLamaCheckin.exe
+http://tbelement.niccenter.net/Download/TBElement.zip
+http://tibetfund.org/90thbirthday 
+https://tbelement.niccenter.net/Download/TBElement.zip
