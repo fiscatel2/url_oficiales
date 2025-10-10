@@ -2111,3 +2111,7 @@ pay.googleinstall.com
 mailserver.kozow.com
 newsinfom.org
 asp.asphspes.com
+https://apps.microsoft.com/detail/9p6cmfv44zlt?hl=en-us&gl=US
+https://anydesk.com/es
+https://remotedesktop.google.com/
+https://chromewebstore.google.com/detail/chrome-remote-desktop/inomeogfingihgjfjlpeplalcfajhgai?hl=es
