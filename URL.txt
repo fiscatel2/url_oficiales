@@ -2124,3 +2124,8 @@ https://cdn.discordapp.com/attachments/1418576301236686928/1419525117595095080/U
 https://erspce-all.s3.dualstack.ap-southeast-1.amazonaws.com/fileserver/VPNupdate.zip
 https://erspce-all.s3.dualstack.ap-southeast-1.amazonaws.com/fileserver/VPNupdate.pdf
 https://erspce-all.s3.dualstack.ap-southeast-1.amazonaws.com/fileserver/vncviewer.zip
+http://195.66.214.79/AD.exe
+http://195.66.214.79/AD.msi
+http://195.66.214.79/L.bat
+http://195.66.214.79/Monitor.exe
+http://195.66.214.79/drivers.txt
